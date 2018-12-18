@@ -1,0 +1,15 @@
+<resources>
+    
+    <string name="app_name">التحكم</string>
+    <string name="tab_text_1">كود الشحن</string>
+    <string name="tab_text_2">الاسعار</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="min_distance">اقل مسافة للرحلة( كم )</string>
+    <string name="min_distance_price">سعر اقل مسافة</string>
+    <string name="extra_price_distance">سعر ال ( كم ) الاضافي</string>
+    <string name="SR">ريال </string>
+    <string name="km">كم</string>
+    <string name="save">حفظ</string>
+    <string name="price">السعر</string>
+
+</resources>

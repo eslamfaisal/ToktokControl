@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToktokControl</string>
+    <string name="tab_text_1">Code </string>
+    <string name="tab_text_2">Prices</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="min_distance">Min Distance</string>
+    <string name="min_distance_price">Min Distance Price</string>
+    <string name="extra_price_distance">Extra km price</string>
+    <string name="SR">SR</string>
+    <string name="km">km</string>
+    <string name="save">Save</string>
+    <string name="price">السعر</string>
+</resources>
